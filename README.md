@@ -30,7 +30,7 @@ To run the Library Management System project, follow these steps:
   - Description: Presents the welcome message displayed at the beginning of the program execution, providing users with a warm introduction to the library management system and inviting them to proceed with their desired actions.
 
 - Main Menu:
-  ![welcomeMessage](https://github.com/iBOY011/Management-Library/assets/147536244/0408b279-5210-4be3-a919-a8b718a05728)
+  ![mainMenu](https://github.com/iBOY011/Management-Library/assets/147536244/8e92d155-8382-4be4-9461-ada876ebbeb4)
   - Description: Displays the main menu of the library management system, providing options for different actions such as adding, searching, viewing, and deleting books.
   
 - Book Addition Form:
